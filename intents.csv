@@ -1,0 +1,1126 @@
+text,intent
+"My parcel has not been delivered",delivery_issue
+"My delivery is late",delivery_issue
+"Where can I find my shipment?",delivery_issue
+"My order is still in transit",delivery_issue
+"My package has been delayed",delivery_issue
+"I am waiting for my package",delivery_issue
+"When will my order arrive?",delivery_issue
+"My delivery has not arrived yet",delivery_issue
+"My shipment is taking too long",delivery_issue
+"I have been waiting for my order",delivery_issue
+"Can you tell me where my package is?",delivery_issue
+"My package hasn't arrived",delivery_issue
+"I expected my order yesterday",delivery_issue
+"My order delivery is late",delivery_issue
+"Please check my delivery status",delivery_issue
+"Can you track my shipment?",delivery_issue
+"Where is my delivery?",delivery_issue
+"My order hasn't been delivered",delivery_issue
+"The package is still missing",delivery_issue
+"My shipment has not arrived",delivery_issue
+"I need an update on my delivery",delivery_issue
+"When can I expect my package?",delivery_issue
+"My package delivery is delayed",delivery_issue
+"The courier has not delivered my order",delivery_issue
+"My order is stuck in transit",delivery_issue
+"I haven't received my parcel",delivery_issue
+"Please tell me when my order will arrive",delivery_issue
+"My shipment is late",delivery_issue
+"I am still waiting for my package",delivery_issue
+"Can you provide my tracking status?",delivery_issue
+"My package hasn't been delivered yet",delivery_issue
+"Why is my order taking so long?",delivery_issue
+"I need to know the location of my package",delivery_issue
+"Please help me track my delivery",delivery_issue
+"My delivery date has passed",delivery_issue
+"The package was supposed to arrive today",delivery_issue
+"My order is overdue",delivery_issue
+"I cannot find my shipment",delivery_issue
+"Please give me an update about my package",delivery_issue
+"My parcel is stuck somewhere",delivery_issue
+"The tracking information has not changed",delivery_issue
+"My delivery is overdue",delivery_issue
+"Can you tell me when my shipment will arrive?",delivery_issue
+"My order has been in transit for too long",delivery_issue
+"I still haven't received my package",delivery_issue
+"Please check where my order is",delivery_issue
+"The courier hasn't arrived",delivery_issue
+"Why hasn't my package arrived?",delivery_issue
+"My shipment delivery is taking longer than expected",delivery_issue
+"I need my money back",billing_refund
+"Please return my payment",billing_refund
+"I would like to get a refund",billing_refund
+"How do I request a refund?",billing_refund
+"I was billed twice for the same order",billing_refund
+"I see a duplicate charge",billing_refund
+"Why did I get charged two times?",billing_refund
+"I was charged more than expected",billing_refund
+"There is an incorrect charge on my account",billing_refund
+"Please check my payment",billing_refund
+"I don't recognize this charge",billing_refund
+"My payment amount is incorrect",billing_refund
+"I need help with a payment issue",billing_refund
+"Why is there an extra charge?",billing_refund
+"I was charged an additional amount",billing_refund
+"Can I get my payment refunded?",billing_refund
+"Please process my refund",billing_refund
+"When will I receive my refund?",billing_refund
+"My refund has not arrived",billing_refund
+"I have not received my refund yet",billing_refund
+"Why is my refund taking so long?",billing_refund
+"Please return the money to my account",billing_refund
+"I want to dispute this charge",billing_refund
+"I was charged the wrong amount",billing_refund
+"My bill is higher than expected",billing_refund
+"Why did I pay extra?",billing_refund
+"I was charged an unexpected fee",billing_refund
+"There is an extra payment on my bill",billing_refund
+"I need a refund for my purchase",billing_refund
+"Please refund the amount I paid",billing_refund
+"Can you reverse my payment?",billing_refund
+"I want my payment returned",billing_refund
+"The amount charged is incorrect",billing_refund
+"I was charged twice for my purchase",billing_refund
+"Please investigate this duplicate payment",billing_refund
+"I need assistance with a duplicate charge",billing_refund
+"Why was I charged twice for the order?",billing_refund
+"My card was charged twice",billing_refund
+"I received an incorrect bill",billing_refund
+"Can you explain this charge?",billing_refund
+"I want to know why I was charged extra",billing_refund
+"Please check why my bill is higher",billing_refund
+"I need to get a payment refunded",billing_refund
+"How long does a refund take?",billing_refund
+"My refund is still pending",billing_refund
+"The refund has not been credited",billing_refund
+"I haven't received the refunded amount",billing_refund
+"Please help me with my refund",billing_refund
+"I want to report an incorrect payment",billing_refund
+"The software is not working",technical_support
+"The application is crashing",technical_support
+"I keep getting an error",technical_support
+"The website does not work",technical_support
+"I cannot open the application",technical_support
+"The app crashes when I start it",technical_support
+"The website keeps showing an error",technical_support
+"My application is not responding",technical_support
+"The app suddenly stopped working",technical_support
+"I am having technical problems",technical_support
+"Something is wrong with the application",technical_support
+"The website keeps crashing",technical_support
+"I cannot use the application",technical_support
+"The app freezes when I open it",technical_support
+"The application gives me an error",technical_support
+"I am unable to use the website",technical_support
+"The system is not working properly",technical_support
+"The app stopped responding",technical_support
+"I am getting an error message",technical_support
+"The website is down",technical_support
+"My application won't start",technical_support
+"The app is freezing",technical_support
+"I cannot open the website",technical_support
+"The system keeps failing",technical_support
+"There is a technical problem with the app",technical_support
+"My application is malfunctioning",technical_support
+"The website is not loading",technical_support
+"The app does not respond",technical_support
+"I cannot access the application because it crashes",technical_support
+"The software keeps giving errors",technical_support
+"I am facing an application error",technical_support
+"The website stopped working",technical_support
+"The app is not responding to my commands",technical_support
+"I need technical help with the application",technical_support
+"My application keeps closing",technical_support
+"The program crashes every time",technical_support
+"I cannot launch the app",technical_support
+"The website keeps freezing",technical_support
+"I am unable to open the software",technical_support
+"The application shows a technical error",technical_support
+"My app is malfunctioning",technical_support
+"The website has stopped responding",technical_support
+"I am having trouble using the software",technical_support
+"The application will not load",technical_support
+"The app shows an error when I open it",technical_support
+"My website access is not working",technical_support
+"I need help fixing the application",technical_support
+"The system keeps showing errors",technical_support
+"The app is broken",technical_support
+"Please help me resolve this technical issue",technical_support
+"I don't want this order anymore",order_cancellation
+"Please stop my order",order_cancellation
+"I would like to cancel my purchase",order_cancellation
+"Can you cancel my order?",order_cancellation
+"I need to stop an order",order_cancellation
+"Please cancel the order I placed",order_cancellation
+"I want to withdraw my order",order_cancellation
+"Can I stop my recent purchase?",order_cancellation
+"I changed my mind and want to cancel",order_cancellation
+"Please stop the delivery of my order",order_cancellation
+"I no longer need this order",order_cancellation
+"How can I cancel my order?",order_cancellation
+"I want to cancel a recent purchase",order_cancellation
+"Please cancel my latest order",order_cancellation
+"I need my order cancelled",order_cancellation
+"Can you stop processing my order?",order_cancellation
+"I want to withdraw my purchase",order_cancellation
+"Please don't ship my order",order_cancellation
+"Can I cancel the order before it ships?",order_cancellation
+"I no longer want the product",order_cancellation
+"Please remove my order",order_cancellation
+"I made a mistake with my order and want to cancel it",order_cancellation
+"I want to stop my purchase",order_cancellation
+"Please cancel the transaction",order_cancellation
+"I need to cancel something I ordered",order_cancellation
+"Can my order be cancelled?",order_cancellation
+"Please cancel my pending order",order_cancellation
+"I want to cancel an order I recently placed",order_cancellation
+"I don't need this purchase anymore",order_cancellation
+"Please stop my pending order",order_cancellation
+"Can you cancel the order for me?",order_cancellation
+"I changed my mind about the purchase",order_cancellation
+"Please cancel my order immediately",order_cancellation
+"I want to cancel before delivery",order_cancellation
+"Can I stop my order from being shipped?",order_cancellation
+"I need to withdraw my order",order_cancellation
+"Please cancel my purchase request",order_cancellation
+"I no longer want my order",order_cancellation
+"Can you stop this order?",order_cancellation
+"I want this order cancelled",order_cancellation
+"Please cancel the item I ordered",order_cancellation
+"I need to stop an order that I placed",order_cancellation
+"Can I cancel my recent order?",order_cancellation
+"Please don't process my order",order_cancellation
+"I want to cancel my pending purchase",order_cancellation
+"Cancel my order before it is shipped",order_cancellation
+"I accidentally placed an order and want to cancel it",order_cancellation
+"Please help me cancel an order",order_cancellation
+"I want to stop the order processing",order_cancellation
+"Is it possible to cancel my order?",order_cancellation
+"I cannot sign into my account",account_access
+"I forgot the password for my account",account_access
+"I need to reset my account password",account_access
+"My login is not working",account_access
+"I am locked out of my account",account_access
+"How do I regain access to my account?",account_access
+"I cannot get into my account",account_access
+"My password is not working",account_access
+"I lost my account password",account_access
+"I need help accessing my account",account_access
+"My account has been locked",account_access
+"I cannot log into my account",account_access
+"I am having trouble signing in",account_access
+"Please help me reset my password",account_access
+"I don't remember my password",account_access
+"How can I unlock my account?",account_access
+"I am unable to sign in",account_access
+"My account login is blocked",account_access
+"I cannot access my profile",account_access
+"My password reset is not working",account_access
+"I need to recover my account",account_access
+"Why can't I log into my account?",account_access
+"I forgot my login password",account_access
+"My account is inaccessible",account_access
+"Please help me get back into my account",account_access
+"I cannot remember my password",account_access
+"I am locked out of my profile",account_access
+"My login credentials are not working",account_access
+"How can I recover my password?",account_access
+"I need to change my forgotten password",account_access
+"Why is my account locked?",account_access
+"I cannot sign in to my profile",account_access
+"Please unlock my account",account_access
+"I lost access to my account",account_access
+"My account access has been blocked",account_access
+"I need assistance with account login",account_access
+"The login page won't let me in",account_access
+"I am unable to access my profile",account_access
+"Can you help me reset my login?",account_access
+"My password reset link is not working",account_access
+"I cannot remember my login details",account_access
+"How do I access my locked account?",account_access
+"My sign in is failing",account_access
+"I need to regain access to my profile",account_access
+"My account won't let me sign in",account_access
+"Please help me recover my login",account_access
+"I am having problems with my account access",account_access
+"Can you help me unlock my profile?",account_access
+"I cannot enter my account",account_access
+"My account login keeps failing",account_access
+"I want information about available courses",course_information
+"How can I enroll in this course?",course_information
+"What courses are currently available?",course_information
+"Please send me the course details",course_information
+"Is this course available online?",course_information
+"I need information about my admission",education
+"When will the next academic semester begin?",education
+"How can I apply for admission?",education
+"Please help me with my university application",education
+"What are the admission requirements?",education
+"I have received my offer letter",offer_letter
+"When will I receive my offer letter?",offer_letter
+"Please send me my employment offer letter",offer_letter
+"I have not received my offer letter yet",offer_letter
+"Can you explain the details in my offer letter?",offer_letter
+"I need help applying for a government service",government_services
+"Where can I apply for a government certificate?",government_services
+"How do I check my government application status?",government_services
+"I need information about government services",government_services
+"Please help me with my government application",government_services
+"I have a problem with my bank payment",financial_services
+"How can I check my account balance?",financial_services
+"I need help with a financial transaction",financial_services
+"Why was money deducted from my account?",financial_services
+"I want information about my financial account",financial_services
+"I want information about the admission process",education
+"What are the eligibility requirements for admission?",education
+"When does the academic session start?",education
+"Can you tell me about the college admission process?",education
+"I need information about undergraduate programs",education
+"What courses do you offer?",course_inquiry
+"Do you have a Python programming course?",course_inquiry
+"What data science courses are available?",course_inquiry
+"Can you tell me about your AI courses?",course_inquiry
+"What is the duration of the machine learning course?",course_inquiry
+"I want to enroll in the Python course",course_enrollment
+"How can I register for the data science course?",course_enrollment
+"I would like to join the machine learning course",course_enrollment
+"Please help me enroll in the course",course_enrollment
+"Can I register for this course online?",course_enrollment
+"I received an offer letter",offer_letter
+"I have received my job offer letter",offer_letter
+"When will I receive my offer letter?",offer_letter
+"My offer letter has not arrived yet",offer_letter
+"Can you send me my employment offer letter?",offer_letter
+"I want to know the status of my job application",job_application
+"Has my job application been reviewed?",job_application
+"I applied for the software engineer position",job_application
+"When will I receive an update about my application?",job_application
+"Can you check my application status?",job_application
+"How can I apply for a government certificate?",government_services
+"I need information about government services",government_services
+"How can I apply for a government scheme?",government_services
+"Where can I submit my government application?",government_services
+"I need help with a government service",government_services
+"I have a problem with my bank transaction",financial_services
+"My bank account was charged incorrectly",financial_services
+"I need help with a financial transaction",financial_services
+"Why has my bank transfer failed?",financial_services
+"I want information about my bank account",financial_services
+"How can I apply for a scholarship?",scholarship
+"Are there scholarships available for students?",scholarship
+"What are the scholarship eligibility requirements?",scholarship
+"I want to apply for a student scholarship",scholarship
+"When is the scholarship application deadline?",scholarship
+"When will I receive my course certificate?",certificate
+"I have completed my course but haven't received my certificate",certificate
+"How can I download my certificate?",certificate
+"My certificate is not available",certificate
+"Please send me my completion certificate",certificate
+"I want to know about the admission process",education
+"What are the eligibility requirements for admission?",education
+"When does the academic year begin?",education
+"How can I apply for admission?",education
+"Can I apply for admission online?",education
+"What documents are required for admission?",education
+"Please provide information about the university",education
+"I need help with my college application",education
+"When is the last date to apply?",education
+"How can I check my admission status?",education
+"Is there an entrance examination?",education
+"When will the entrance exam be conducted?",education
+"What is the admission procedure?",education
+"Can international students apply?",education
+"Are scholarships available for students?",education
+"How can I apply for a scholarship?",education
+"What are the scholarship eligibility criteria?",education
+"I want to know about the academic programs",education
+"Can you provide the academic calendar?",education
+"When will the semester examinations begin?",education
+"How can I contact the admissions office?",education
+"I need information about undergraduate admission",education
+"I want to apply for postgraduate studies",education
+"What are the requirements for postgraduate admission?",education
+"Can I change my academic program?",education
+"How do I transfer to another college?",education
+"I need help with my student registration",education
+"Where can I find my admission application?",education
+"My admission application is still pending",education
+"Please check my application status",education
+"Can I update my admission details?",education
+"I submitted my application but have not received a response",education
+"What is the minimum qualification required?",education
+"Is there an age limit for admission?",education
+"Do I need previous academic certificates?",education
+"How can I download my admission form?",education
+"Can I apply after the deadline?",education
+"When will the admission results be announced?",education
+"I need help understanding the admission requirements",education
+"Please provide details about student enrollment",education
+"I want information about available courses",course_information
+"What courses are currently available?",course_information
+"Can you send me the course catalog?",course_information
+"I want to know about your online courses",course_information
+"What is the duration of this course?",course_information
+"How much does the course cost?",course_information
+"What topics are covered in the course?",course_information
+"Can you provide the course syllabus?",course_information
+"Is this course available online?",course_information
+"Is the course available on weekends?",course_information
+"When does the next course start?",course_information
+"How can I enroll in the course?",course_information
+"Can I register for the course online?",course_information
+"What are the prerequisites for this course?",course_information
+"Do I need any previous experience?",course_information
+"Is there a certificate after completing the course?",course_information
+"Will I receive a course completion certificate?",course_information
+"How many months is the course?",course_information
+"How many hours per week is the course?",course_information
+"Are study materials included?",course_information
+"Can I access recorded lectures?",course_information
+"Is there an instructor for the course?",course_information
+"Are practical sessions included?",course_information
+"Can I attend the course remotely?",course_information
+"Do you offer evening classes?",course_information
+"Do you offer weekend classes?",course_information
+"I want to compare different courses",course_information
+"Which course is best for beginners?",course_information
+"Which course should I choose for a career in IT?",course_information
+"Please explain the course structure",course_information
+"Can I change my course after enrollment?",course_information
+"Can I cancel my course registration?",course_information
+"When will course registration open?",course_information
+"Is there a discount on the course fee?",course_information
+"Are payment plans available for the course?",course_information
+"Can I pay the course fee in installments?",course_information
+"Is there an examination at the end of the course?",course_information
+"How is the course assessment conducted?",course_information
+"Can I download the course material?",course_information
+"Please send me more details about this course",course_information
+"When will I receive my offer letter?",offer_letter
+"I have not received my offer letter",offer_letter
+"Please send me my offer letter",offer_letter
+"Where can I download my offer letter?",offer_letter
+"I received an offer letter",offer_letter
+"I want to know the status of my offer letter",offer_letter
+"My offer letter has not arrived yet",offer_letter
+"Can you resend my offer letter?",offer_letter
+"I cannot open my offer letter",offer_letter
+"The offer letter link is not working",offer_letter
+"I need a copy of my offer letter",offer_letter
+"Can you email my offer letter again?",offer_letter
+"When will my employment offer be issued?",offer_letter
+"I am waiting for my employment offer",offer_letter
+"Has my offer letter been generated?",offer_letter
+"Please confirm whether my offer letter is ready",offer_letter
+"I need help accessing my offer letter",offer_letter
+"My offer letter download is failing",offer_letter
+"I received the offer but have questions about it",offer_letter
+"Can I accept my offer online?",offer_letter
+"How do I accept the offer letter?",offer_letter
+"What is the deadline to accept the offer?",offer_letter
+"Can I request an extension for accepting the offer?",offer_letter
+"I want to decline the offer",offer_letter
+"How can I accept my employment offer?",offer_letter
+"The details in my offer letter are incorrect",offer_letter
+"My name is incorrect on the offer letter",offer_letter
+"My joining date is incorrect in the offer letter",offer_letter
+"The salary mentioned in my offer letter is incorrect",offer_letter
+"Can my offer letter be corrected?",offer_letter
+"I need clarification about my offer letter",offer_letter
+"Please explain the terms in my offer letter",offer_letter
+"What documents do I need to submit after receiving the offer?",offer_letter
+"When is my joining date?",offer_letter
+"Where can I find the terms and conditions of the offer?",offer_letter
+"Can I modify my joining date?",offer_letter
+"I have accepted my offer letter",offer_letter
+"I have not received confirmation after accepting the offer",offer_letter
+"Please confirm my offer acceptance",offer_letter
+"How can I apply for a government service?",government_services
+"I need information about government services",government_services
+"Where can I apply for a government certificate?",government_services
+"How can I check my government application status?",government_services
+"I need help with my government application",government_services
+"Where can I find the government application form?",government_services
+"Can I apply for the certificate online?",government_services
+"What documents are required for the application?",government_services
+"How long does the government application take?",government_services
+"My government application is still pending",government_services
+"I want to check my application status",government_services
+"How can I update my government application?",government_services
+"I entered incorrect information in my application",government_services
+"Can I correct my application details?",government_services
+"Where can I download my government certificate?",government_services
+"I have not received my certificate",government_services
+"When will my certificate be issued?",government_services
+"How can I renew my government document?",government_services
+"My government document has expired",government_services
+"How can I apply for document renewal?",government_services
+"I need information about government schemes",government_services
+"What government schemes are available?",government_services
+"How can I apply for a government benefit?",government_services
+"Am I eligible for this government scheme?",government_services
+"What are the eligibility requirements for the scheme?",government_services
+"Where can I submit my government application?",government_services
+"Can I submit the application online?",government_services
+"Is there an application fee?",government_services
+"How can I download the application receipt?",government_services
+"I lost my government application receipt",government_services
+"How can I contact the government department?",government_services
+"I need help with a government portal",government_services
+"The government website is not working",government_services
+"I cannot access the government portal",government_services
+"The application portal is showing an error",government_services
+"I cannot upload my documents",government_services
+"My documents were rejected",government_services
+"Why was my government application rejected?",government_services
+"How can I appeal a rejected application?",government_services
+"Please help me track my government application",government_services
+"How can I open a bank account?",financial_services
+"I want to know about financial services",financial_services
+"How can I check my account balance?",financial_services
+"I need help with my bank account",financial_services
+"Why was money deducted from my account?",financial_services
+"I do not recognize this transaction",financial_services
+"There is an unauthorized transaction on my account",financial_services
+"I want to report a suspicious transaction",financial_services
+"My payment was declined",financial_services
+"Why was my payment declined?",financial_services
+"My bank transfer has failed",financial_services
+"My transfer is still pending",financial_services
+"How long does a bank transfer take?",financial_services
+"I have not received my transfer",financial_services
+"The money was deducted but the transaction failed",financial_services
+"I was charged a transaction fee",financial_services
+"Why was I charged a banking fee?",financial_services
+"How can I update my bank details?",financial_services
+"I need to change my account information",financial_services
+"How can I close my bank account?",financial_services
+"I want to activate my account",financial_services
+"My financial account is locked",financial_services
+"I cannot access my banking account",financial_services
+"How can I reset my banking password?",financial_services
+"I forgot my banking PIN",financial_services
+"My debit card is not working",financial_services
+"My credit card payment failed",financial_services
+"I want to check my recent transactions",financial_services
+"Please send me my account statement",financial_services
+"How can I download my bank statement?",financial_services
+"I need a copy of my transaction history",financial_services
+"Why is my account balance incorrect?",financial_services
+"An incorrect amount was deducted from my account",financial_services
+"I was charged twice for a transaction",financial_services
+"I need help with a duplicate transaction",financial_services
+"How can I transfer money to another account?",financial_services
+"What is the daily transfer limit?",financial_services
+"How can I increase my transaction limit?",financial_services
+"Can I make an international transfer?",financial_services
+"What are the charges for international transfers?",financial_services
+"I cannot access the government portal",government_services
+"Where can I submit my government service application?",government_services
+"The government website is not letting me log in",government_services
+"How do I check the status of my government application?",government_services
+"I need help completing an online government form",government_services
+"Is the government service available online?",government_services
+"Where can I find the requirements for this government service?",government_services
+"The government portal keeps showing an error",government_services
+"Can someone help me update my government application?",government_services
+"I have not received an update from the government department",government_services
+"What are the charges for international transfers?",financial_services
+"Can I send money internationally through my account?",financial_services
+"Why was I charged a fee for transferring money overseas?",financial_services
+"What exchange rate will be used for my international payment?",financial_services
+"How long will an overseas transfer take to arrive?",financial_services
+"Is there a limit on the amount I can transfer?",financial_services
+"My bank transfer has not reached the recipient yet",financial_services
+"Can I cancel a transfer that I made yesterday?",financial_services
+"Why was my international payment rejected?",financial_services
+"Do you support transfers in different currencies?",financial_services
+"I have accepted my offer letter",offer_letter
+"I received my offer and would like to confirm acceptance",offer_letter
+"How do I accept the offer I was given?",offer_letter
+"I have accepted the admission offer online",offer_letter
+"Where do I confirm my acceptance of the offer?",offer_letter
+"I accepted my offer but have not received confirmation",offer_letter
+"Can I change my decision after accepting the offer?",offer_letter
+"I would like to know what happens after accepting my offer",offer_letter
+"Is there a deadline for accepting my offer letter?",offer_letter
+"I have questions about the conditions mentioned in my offer",offer_letter
+"When will course registration open?",course_information
+"Where can I find the list of available courses?",course_information
+"Which courses are available for the upcoming semester?",course_information
+"Can you tell me when the next course enrollment period starts?",course_information
+"Is this course offered online or on campus?",course_information
+"What are the prerequisites for this course?",course_information
+"How many students can enroll in this course?",course_information
+"Is the course available to international students?",course_information
+"Can I take this course part time?",course_information
+"Where can I find the course syllabus?",course_information
+"Is there a discount on the course fee?",course_information
+"Are payment plans available for the course?",course_information
+"How much does the course cost in total?",course_information
+"Can I pay my tuition in monthly installments?",course_information
+"Are there any early payment discounts?",course_information
+"What is included in the course fee?",course_information
+"Do you offer reduced fees for returning students?",course_information
+"Is there a discount for paying the full amount upfront?",course_information
+"Are there additional charges besides the tuition fee?",course_information
+"Can I get a breakdown of all course-related costs?",course_information
+"My parcel has not arrived yet",delivery_issue
+"My delivery is running late",delivery_issue
+"Where is my shipment right now?",delivery_issue
+"My order is still in transit",delivery_issue
+"My package has been delayed",delivery_issue
+"I am still waiting for my parcel",delivery_issue
+"When should I expect my order to arrive?",delivery_issue
+"My delivery has not arrived",delivery_issue
+"My shipment is taking longer than expected",delivery_issue
+"I have been waiting for my package",delivery_issue
+"Can you check where my package is?",delivery_issue
+"My package hasn't arrived yet",delivery_issue
+"My order was supposed to arrive yesterday",delivery_issue
+"My delivery date has passed",delivery_issue
+"Can you check the status of my shipment?",delivery_issue
+"Can you track my order?",delivery_issue
+"Where is my delivery?",delivery_issue
+"My order hasn't been delivered",delivery_issue
+"My package appears to be missing",delivery_issue
+"My shipment has not arrived yet",delivery_issue
+"I need an update on my delivery",delivery_issue
+"When will my package arrive?",delivery_issue
+"My package delivery is delayed",delivery_issue
+"The courier has not delivered my order",delivery_issue
+"My order seems to be stuck in transit",delivery_issue
+"I haven't received my parcel",delivery_issue
+"Please tell me when my order will arrive",delivery_issue
+"My shipment is late",delivery_issue
+"I am still waiting for my delivery",delivery_issue
+"Can you provide an update on my tracking?",delivery_issue
+"My package hasn't been delivered yet",delivery_issue
+"Why is my order taking so long to arrive?",delivery_issue
+"I need to know where my package is",delivery_issue
+"Please help me track my shipment",delivery_issue
+"The expected delivery date has passed",delivery_issue
+"My package was supposed to arrive today",delivery_issue
+"My order is overdue",delivery_issue
+"I cannot locate my shipment",delivery_issue
+"Please provide an update about my package",delivery_issue
+"My parcel seems to be stuck somewhere",delivery_issue
+"The tracking information has not changed",delivery_issue
+"My delivery is overdue",delivery_issue
+"Can you tell me when my shipment will arrive?",delivery_issue
+"My order has been in transit for several days",delivery_issue
+"I still have not received my package",delivery_issue
+"Please check where my order is",delivery_issue
+"The courier hasn't delivered the package",delivery_issue
+"Why hasn't my package arrived?",delivery_issue
+"My shipment is taking longer than expected",delivery_issue
+"I need my money back for this purchase",billing_refund
+"Please return the payment I made",billing_refund
+"I would like to request a refund",billing_refund
+"How can I get my payment refunded?",billing_refund
+"I was billed twice for the same order",billing_refund
+"I see two charges for one purchase",billing_refund
+"Why was I charged twice?",billing_refund
+"I was charged more than I expected",billing_refund
+"There is an incorrect charge on my account",billing_refund
+"Please check this payment for me",billing_refund
+"I don't recognize this charge",billing_refund
+"The payment amount is incorrect",billing_refund
+"I need help with an incorrect payment",billing_refund
+"Why is there an extra charge?",billing_refund
+"I was charged an additional amount",billing_refund
+"Can I get this payment refunded?",billing_refund
+"Please process my refund",billing_refund
+"When will I receive my refund?",billing_refund
+"My refund has not arrived",billing_refund
+"I have not received my refund yet",billing_refund
+"Why is my refund taking so long?",billing_refund
+"Please return the money to my account",billing_refund
+"I want to dispute this charge",billing_refund
+"I was charged the wrong amount",billing_refund
+"My bill is higher than expected",billing_refund
+"Why did I pay more than expected?",billing_refund
+"I was charged an unexpected fee",billing_refund
+"There is an extra payment on my bill",billing_refund
+"I need a refund for my purchase",billing_refund
+"Please refund the amount I paid",billing_refund
+"Can you reverse this payment?",billing_refund
+"I want my payment returned",billing_refund
+"The amount charged to me is incorrect",billing_refund
+"I was charged twice for my purchase",billing_refund
+"Please investigate this duplicate payment",billing_refund
+"I need assistance with a duplicate charge",billing_refund
+"Why was I charged twice for the order?",billing_refund
+"My card was charged twice",billing_refund
+"I received an incorrect bill",billing_refund
+"Can you explain this charge?",billing_refund
+"I want to know why I was charged extra",billing_refund
+"Please check why my bill is higher",billing_refund
+"I need to get this payment refunded",billing_refund
+"How long does a refund normally take?",billing_refund
+"My refund is still pending",billing_refund
+"The refund has not been credited",billing_refund
+"I haven't received the refunded amount",billing_refund
+"Please help me resolve this refund issue",billing_refund
+"The software is not working",technical_support
+"The application keeps crashing",technical_support
+"I keep getting an error message",technical_support
+"The website is not working",technical_support
+"I cannot open the application",technical_support
+"The app crashes when I start it",technical_support
+"The website keeps showing an error",technical_support
+"My application is not responding",technical_support
+"The app suddenly stopped working",technical_support
+"I am having a technical problem",technical_support
+"Something is wrong with the application",technical_support
+"The website keeps crashing",technical_support
+"I cannot use the application",technical_support
+"The app freezes when I open it",technical_support
+"The application gives me an error",technical_support
+"I am unable to use the website",technical_support
+"The system is not working properly",technical_support
+"The app stopped responding",technical_support
+"I am getting an error on the website",technical_support
+"The website is down",technical_support
+"My application will not start",technical_support
+"The app keeps freezing",technical_support
+"I cannot open the website",technical_support
+"The system keeps failing",technical_support
+"There is a technical problem with the application",technical_support
+"My application is malfunctioning",technical_support
+"The website is not loading",technical_support
+"The app does not respond",technical_support
+"I cannot access the application because it crashes",technical_support
+"The software keeps producing errors",technical_support
+"I am facing an application error",technical_support
+"The website stopped working",technical_support
+"The app is not responding to my commands",technical_support
+"I need technical help with the application",technical_support
+"My application keeps closing unexpectedly",technical_support
+"The program crashes every time I open it",technical_support
+"I cannot launch the application",technical_support
+"The website keeps freezing",technical_support
+"I am unable to open the software",technical_support
+"The application shows a technical error",technical_support
+"My app is malfunctioning",technical_support
+"The website has stopped responding",technical_support
+"I am having trouble using the software",technical_support
+"The application will not load",technical_support
+"The app shows an error when I open it",technical_support
+"My website access is not working",technical_support
+"I need help fixing the application",technical_support
+"The system keeps showing errors",technical_support
+"The app is completely broken",technical_support
+"Please help me resolve this technical issue",technical_support
+"I don't want this order anymore",order_cancellation
+"Please stop my order",order_cancellation
+"I would like to cancel my purchase",order_cancellation
+"Can you cancel my order?",order_cancellation
+"I need to stop an order",order_cancellation
+"Please cancel the order I placed",order_cancellation
+"I want to withdraw my order",order_cancellation
+"Can I stop my recent purchase?",order_cancellation
+"I changed my mind and want to cancel",order_cancellation
+"Please stop the delivery of my order",order_cancellation
+"I no longer need this order",order_cancellation
+"How can I cancel my order?",order_cancellation
+"I want to cancel a recent purchase",order_cancellation
+"Please cancel my latest order",order_cancellation
+"I need my order cancelled",order_cancellation
+"Can you stop processing my order?",order_cancellation
+"I want to withdraw my purchase",order_cancellation
+"Please don't ship my order",order_cancellation
+"Can I cancel the order before it ships?",order_cancellation
+"I no longer want the product",order_cancellation
+"Please remove my order",order_cancellation
+"I made a mistake with my order and want to cancel it",order_cancellation
+"I want to stop my purchase",order_cancellation
+"Please cancel the transaction",order_cancellation
+"I need to cancel something I ordered",order_cancellation
+"Can my order be cancelled?",order_cancellation
+"Please cancel my pending order",order_cancellation
+"I want to cancel an order I recently placed",order_cancellation
+"I don't need this purchase anymore",order_cancellation
+"Please stop my pending order",order_cancellation
+"Can you cancel the order for me?",order_cancellation
+"I changed my mind about the purchase",order_cancellation
+"Please cancel my order immediately",order_cancellation
+"I want to cancel before delivery",order_cancellation
+"Can I stop my order from being shipped?",order_cancellation
+"I need to withdraw my order",order_cancellation
+"Please cancel my purchase request",order_cancellation
+"I no longer want my order",order_cancellation
+"Can you stop this order?",order_cancellation
+"I want this order cancelled",order_cancellation
+"Please cancel the item I ordered",order_cancellation
+"I need to stop an order that I placed",order_cancellation
+"Can I cancel my recent order?",order_cancellation
+"Please don't process my order",order_cancellation
+"I want to cancel my pending purchase",order_cancellation
+"Cancel my order before it is shipped",order_cancellation
+"I accidentally placed an order and want to cancel it",order_cancellation
+"Please help me cancel an order",order_cancellation
+"I want to stop the order processing",order_cancellation
+"Is it possible to cancel my order?",order_cancellation
+"I cannot sign into my account",account_access
+"I am unable to access my account",account_access
+"My account login is not working",account_access
+"I am locked out of my account",account_access
+"How do I regain access to my account?",account_access
+"I cannot get into my account",account_access
+"My account has been locked",account_access
+"I cannot log into my account",account_access
+"I am having trouble signing in",account_access
+"I need help accessing my account",account_access
+"My account login has been blocked",account_access
+"I am unable to sign in",account_access
+"I cannot access my profile",account_access
+"My account is inaccessible",account_access
+"Please help me get back into my account",account_access
+"My login credentials are not working",account_access
+"I cannot sign in to my profile",account_access
+"Please unlock my account",account_access
+"I lost access to my account",account_access
+"My account access has been blocked",account_access
+"I need assistance with account login",account_access
+"The login page won't let me in",account_access
+"I am unable to access my profile",account_access
+"Can you help me restore my account access?",account_access
+"My sign-in keeps failing",account_access
+"I need to regain access to my profile",account_access
+"My account won't let me sign in",account_access
+"I am having problems with account access",account_access
+"Can you help me unlock my profile?",account_access
+"I cannot enter my account",account_access
+"My account login keeps failing",account_access
+"How do I submit an admission application?",admissions
+"Where do I start my application for admission?",admissions
+"What information is needed to apply for admission?",admissions
+"Can I apply for the next intake now?",admissions
+"Where is the online admission form?",admissions
+"Do I need to pay an application fee for admission?",admissions
+"What qualifications are needed to apply?",admissions
+"Can I submit my admission application electronically?",admissions
+"Are applications currently open for this program?",admissions
+"What supporting documents are needed for admission?",admissions
+"Can I apply before receiving my final certificate?",admissions
+"How do I submit supporting documents with my application?",admissions
+"Is there a separate application for international applicants?",admissions
+"Can I edit my admission application before submitting it?",admissions
+"How do I know if I meet the entry criteria?",admissions
+"Has my admission application been processed?",application_status
+"Can you tell me if my application is still being reviewed?",application_status
+"What is the current status of my submitted application?",application_status
+"Why has there been no update on my application?",application_status
+"Has a decision been made on my application?",application_status
+"Can I track the progress of my application?",application_status
+"My application has been under review for a long time",application_status
+"Where can I see my application status?",application_status
+"Has the admissions team reviewed my application?",application_status
+"When can I expect an application decision?",application_status
+"My submitted application is showing as pending",application_status
+"Can you confirm that my application was received?",application_status
+"Why has my application status not changed?",application_status
+"Is my application complete and under review?",application_status
+"How do I check whether my application has been approved?",application_status
+"What do I need to do after receiving admission?",enrollment
+"How do I finalize my student enrollment?",enrollment
+"What is required to complete enrollment?",enrollment
+"I accepted my place and need to enroll",enrollment
+"Where can I complete the enrollment process?",enrollment
+"Is online enrollment available?",enrollment
+"When can newly admitted students enroll?",enrollment
+"How do I confirm my enrollment?",enrollment
+"What documents are required for final enrollment?",enrollment
+"My enrollment has not been confirmed",enrollment
+"How do I complete enrollment after admission?",enrollment
+"Can I enroll after accepting my admission offer?",enrollment
+"Where can I see my enrollment status?",enrollment
+"What happens after I complete enrollment?",enrollment
+"I need help completing my enrollment",enrollment
+"How do I register for my classes?",registration
+"Where is the subject registration page?",registration
+"When can I register for modules?",registration
+"I cannot add a subject to my registration",registration
+"Why is my course registration blocked?",registration
+"Can I change a subject after registration?",registration
+"How do I remove a registered subject?",registration
+"Is registration still open?",registration
+"What is the maximum number of subjects I can register for?",registration
+"Can I register for an additional module?",registration
+"My subject registration has failed",registration
+"Where can I view my registered classes?",registration
+"Can I modify my class registration?",registration
+"Why can't I register for this module?",registration
+"When does online subject registration close?",registration
+"What is the tuition fee for international students?",tuition_fees
+"How much will this program cost per semester?",tuition_fees
+"Where can I find the official tuition fee list?",tuition_fees
+"What is the annual tuition cost?",tuition_fees
+"How much tuition do I need to pay?",tuition_fees
+"Are tuition fees different for each program?",tuition_fees
+"Does tuition vary for international students?",tuition_fees
+"What are the tuition charges for this academic year?",tuition_fees
+"Is tuition charged per semester or annually?",tuition_fees
+"Are examination fees included in tuition?",tuition_fees
+"Does the tuition fee include all academic charges?",tuition_fees
+"Can you explain the tuition fee structure?",tuition_fees
+"What is the fee for the first year of study?",tuition_fees
+"Are there extra fees in addition to tuition?",tuition_fees
+"Where can I download the tuition fee schedule?",tuition_fees
+"What financial aid options are available for students?",student_finance
+"Can I arrange a payment plan for my tuition?",student_finance
+"How can I get financial assistance for my studies?",student_finance
+"Where can I view my student financial account?",student_finance
+"Can I pay my student fees by bank transfer?",student_finance
+"Why has my student payment not appeared yet?",student_finance
+"How do I make a payment toward my student account?",student_finance
+"Can I split my tuition payments into installments?",student_finance
+"How can I check my outstanding student fees?",student_finance
+"I need help with my student account balance",student_finance
+"Can I arrange a tuition payment schedule?",student_finance
+"How do I view my student payment history?",student_finance
+"Why is my student account showing an unexpected balance?",student_finance
+"Can I request financial support from the university?",student_finance
+"How can I pay an outstanding student balance?",student_finance
+"Which scholarships can I apply for?",scholarships
+"What scholarships are available for undergraduate students?",scholarships
+"Do you offer merit scholarships?",scholarships
+"Can international students apply for scholarships?",scholarships
+"What are the requirements for scholarship funding?",scholarships
+"When should I submit my scholarship application?",scholarships
+"How are scholarship applications evaluated?",scholarships
+"Can scholarships cover the entire tuition fee?",scholarships
+"Are scholarships available based on financial need?",scholarships
+"What documents are needed for a scholarship application?",scholarships
+"Where can I find the scholarship application form?",scholarships
+"How do I find scholarships offered by the university?",scholarships
+"Can I apply for more than one scholarship?",scholarships
+"Is there a scholarship for high academic performance?",scholarships
+"Where can I check scholarship application information?",scholarships
+"How do I apply for university housing?",accommodation
+"Where can I submit a housing application?",accommodation
+"When does accommodation application open?",accommodation
+"Are university rooms available for new students?",accommodation
+"How much is university accommodation per semester?",accommodation
+"Can I request a specific residence hall?",accommodation
+"How do I find out which room I have been assigned?",accommodation
+"Can I change my accommodation assignment?",accommodation
+"What is included in the accommodation fee?",accommodation
+"Are rooms available for international students?",accommodation
+"How do I cancel my university housing?",accommodation
+"Can I apply for accommodation after enrollment?",accommodation
+"Where can I view my housing allocation?",accommodation
+"Can I request a roommate?",accommodation
+"When will accommodation allocations be released?",accommodation
+"How do I apply for a student visa?",student_visa
+"What documents are required for my student visa application?",student_visa
+"Where can I find the university visa support information?",student_visa
+"Does the university provide a visa support letter?",student_visa
+"When should I apply for my student visa?",student_visa
+"How long can the student visa application take?",student_visa
+"What should I do if my student visa is refused?",student_visa
+"Can I extend my student visa?",student_visa
+"Where should I submit my student visa documents?",student_visa
+"Does my course require a student visa?",student_visa
+"How can I get a visa confirmation letter?",student_visa
+"What visa documents will the university provide?",student_visa
+"Can I study while my student visa is being processed?",student_visa
+"What happens if my student visa application is delayed?",student_visa
+"Do I need health insurance for my student visa?",student_visa
+"What immigration documents do I need?",immigration
+"How can I renew my immigration status?",immigration
+"When should I renew my immigration documents?",immigration
+"How do I report a change of address to immigration?",immigration
+"What are the requirements for maintaining immigration status?",immigration
+"Can I work under my current immigration status?",immigration
+"How do I update my immigration information?",immigration
+"My immigration document is expiring soon",immigration
+"Where can I find immigration forms?",immigration
+"What should I do if immigration requests additional documents?",immigration
+"Can I extend my current immigration permission?",immigration
+"How do I correct information on my immigration record?",immigration
+"What happens if my immigration document expires?",immigration
+"Do I need to notify immigration about a change in circumstances?",immigration
+"Where can I get help understanding immigration requirements?",immigration
+"How can I get help choosing my courses?",academic_support
+"Who can advise me about my degree requirements?",academic_support
+"Can I meet with an academic advisor?",academic_support
+"How do I book academic advising?",academic_support
+"I need advice about selecting modules",academic_support
+"Who can help me plan my academic program?",academic_support
+"Can someone review my degree progress?",academic_support
+"I need guidance about changing my major",academic_support
+"Who can explain my academic requirements?",academic_support
+"How can I plan my courses for next semester?",academic_support
+"Where can I get advice about my study plan?",academic_support
+"Can an advisor help me choose electives?",academic_support
+"I need help understanding my degree requirements",academic_support
+"Who should I contact about academic planning?",academic_support
+"Can I arrange a meeting with an academic advisor?",academic_support
+"When will my final examinations take place?",examinations
+"Where can I find the final exam schedule?",examinations
+"What are the rules for taking an examination?",examinations
+"What happens if I miss a final exam?",examinations
+"Can I request a different exam date?",examinations
+"Where will my examination be held?",examinations
+"How can I request exam accommodations?",examinations
+"When are examination results published?",examinations
+"Can I appeal an examination result?",examinations
+"What identification should I bring to an exam?",examinations
+"How do I find my exam timetable?",examinations
+"Are there special arrangements for examinations?",examinations
+"What should I do if I cannot attend an exam?",examinations
+"Where can I see my examination room?",examinations
+"When will my exam marks be available?",examinations
+"How do I order an official academic certificate?",certificates
+"Where can I collect my qualification certificate?",certificates
+"When will my academic certificate be issued?",certificates
+"Can I download my certificate electronically?",certificates
+"What should I do if my certificate has not arrived?",certificates
+"How much does a replacement certificate cost?",certificates
+"Can I request a certified copy of my qualification?",certificates
+"How can an employer verify my certificate?",certificates
+"How long does certificate issuance take?",certificates
+"There is an error in my certificate",certificates
+"How do I request a corrected certificate?",certificates
+"Can I get another copy of my academic certificate?",certificates
+"Where can I check my certificate request?",certificates
+"How do I collect my completed certificate?",certificates
+"Is there a fee for replacing a certificate?",certificates
+"How do I request an official transcript?",transcripts
+"Where can I download my academic transcript?",transcripts
+"How long will my transcript request take?",transcripts
+"Can my transcript be sent directly to another university?",transcripts
+"Is there a charge for an official transcript?",transcripts
+"My transcript request is still processing",transcripts
+"How do I order a transcript from a previous year?",transcripts
+"There is an incorrect grade on my transcript",transcripts
+"How do I replace a lost transcript?",transcripts
+"Can I request my transcript online?",transcripts
+"Where can I see the status of my transcript request?",transcripts
+"How can I obtain a certified transcript?",transcripts
+"Can my transcript be emailed to an institution?",transcripts
+"What information is included on an official transcript?",transcripts
+"How do I request another copy of my transcript?",transcripts
+"When is the university graduation ceremony?",graduation
+"How do I register for the graduation ceremony?",graduation
+"How can I confirm that I am eligible to graduate?",graduation
+"Where can I find graduation information?",graduation
+"How do I order graduation clothing?",graduation
+"Can family members attend graduation?",graduation
+"What if I cannot attend the graduation ceremony?",graduation
+"When will my degree certificate be issued after graduation?",graduation
+"Where can I find the graduation timetable?",graduation
+"Are graduation photos provided?",graduation
+"How do I confirm my graduation attendance?",graduation
+"When will graduation registration open?",graduation
+"Where can I collect my graduation gown?",graduation
+"Can I invite guests to graduation?",graduation
+"How do I find out whether I am graduating this semester?",graduation
+"Where can I get help with career planning?",career_services
+"Can I book a career counseling session?",career_services
+"Does the university review student CVs?",career_services
+"Where can I find career development workshops?",career_services
+"Can someone help me prepare for interviews?",career_services
+"When is the next university career fair?",career_services
+"How do I contact the careers team?",career_services
+"Are career services available to international students?",career_services
+"Where can I find graduate career resources?",career_services
+"I need advice about choosing a career",career_services
+"Can the careers office help improve my resume?",career_services
+"Where can I get employment preparation support?",career_services
+"Does the university offer mock interviews?",career_services
+"How can I attend a career workshop?",career_services
+"Who can help me with my career development?",career_services
+"Where can I find student job vacancies?",employment
+"How do I apply for a university student job?",employment
+"Are part-time jobs available for students?",employment
+"Can international students work while studying?",employment
+"Where can I find campus employment opportunities?",employment
+"How do I submit an application for a student position?",employment
+"When does student employment recruitment close?",employment
+"Can the university help me find part-time work?",employment
+"How do I update my employment information?",employment
+"Where can I find jobs advertised by the university?",employment
+"Are there work opportunities available on campus?",employment
+"How can I apply for a campus job?",employment
+"Where can I see current student employment vacancies?",employment
+"Do students need permission to work on campus?",employment
+"Can I work part time during my studies?",employment
+"Where can I find internship vacancies?",internships
+"How do I apply for a student internship?",internships
+"Does my course include an internship requirement?",internships
+"Can international students participate in internships?",internships
+"Can the university help arrange an internship?",internships
+"When should I start applying for internships?",internships
+"How do I receive academic credit for an internship?",internships
+"Where should I submit internship paperwork?",internships
+"Are summer internships available?",internships
+"Who manages student internships?",internships
+"Can I complete an internship during the academic year?",internships
+"Where can I find approved internship opportunities?",internships
+"How do I register an internship for academic credit?",internships
+"Does the university provide internship placements?",internships
+"Who should I contact about internship opportunities?",internships
+"What percentage of attendance is required?",attendance
+"How many absences are allowed?",attendance
+"Where can I view my attendance record?",attendance
+"Why is my attendance record incorrect?",attendance
+"Will low attendance prevent me from taking exams?",attendance
+"How do I report that I was absent?",attendance
+"Can my absence be officially excused?",attendance
+"I attended class but was marked absent",attendance
+"What happens when attendance falls below the required level?",attendance
+"Who handles attendance corrections?",attendance
+"Can I request an attendance correction?",attendance
+"How is student attendance calculated?",attendance
+"Where can I check my attendance percentage?",attendance
+"Does attendance affect examination eligibility?",attendance
+"What should I do about an incorrect absence record?",attendance
+"Where can I view my weekly class timetable?",timetable
+"When will the timetable for next semester be published?",timetable
+"Why are two classes scheduled at the same time?",timetable
+"Can I change my class timetable?",timetable
+"Why is my registered class missing from my timetable?",timetable
+"Where can I find my classroom number?",timetable
+"How do I download my class schedule?",timetable
+"Has the time of my lecture changed?",timetable
+"Can I request a different tutorial session?",timetable
+"Why has my timetable not updated?",timetable
+"Where can I see my lecture schedule?",timetable
+"Can I view my timetable online?",timetable
+"When will my class schedule be available?",timetable
+"How do I check room details for my classes?",timetable
+"My timetable contains an incorrect class",timetable
+"Where can I find the campus map?",campus_services
+"What facilities are available for students on campus?",campus_services
+"Does the campus have a fitness center?",campus_services
+"What are the campus operating hours?",campus_services
+"Where can I find food facilities on campus?",campus_services
+"Is student parking available?",campus_services
+"Where are the student health facilities?",campus_services
+"How do I access campus recreation facilities?",campus_services
+"Where can I report a campus facility problem?",campus_services
+"Can I find campus facility information online?",campus_services
+"Where can I find the student services building?",campus_services
+"Are there restaurants or cafes on campus?",campus_services
+"Where can I find campus accessibility facilities?",campus_services
+"How do I report a problem with a campus building?",campus_services
+"Where can I find information about campus services?",campus_services
+"How do I borrow books from the library?",library_services
+"What are the library hours?",library_services
+"Can I renew borrowed books online?",library_services
+"How do I access online library journals?",library_services
+"Where can I get a library membership?",library_services
+"How can I access electronic books?",library_services
+"Why is there a fine on my library account?",library_services
+"How do I reserve a library study room?",library_services
+"Can students access library resources remotely?",library_services
+"How do I contact the library help desk?",library_services
+"Where can I search the library catalog?",library_services
+"How many books can I borrow?",library_services
+"Can I renew a book after it becomes overdue?",library_services
+"How do I access the library database from home?",library_services
+"Where can I find information about library borrowing rules?",library_services
